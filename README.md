@@ -1,4 +1,7 @@
 TUT_helloworld
 ==============
 
-Code du tutoriel HelloWorld du site ngcode.fr
+Voici les sources accompagnant le tutoriel HelloWorld sur NGCode.fr
+
+Plus de détails et explications sur :
+http://ngcode.fr/2014/02/helloworld-angularjs/
